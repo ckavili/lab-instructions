@@ -1,5 +1,5 @@
 # 🧑‍🏫📚 GenAIOps Enablement Lab Exercises (AI501)
-
+## Disclaimer: This is a teaser run:)
 <!-- ## Slide Decks
 Slide decks are published along side the exercise instructions. To add a new slide deck or update any existing ones, simply navigate to `docs/slides/content` and edit and existing file or create a new `.md` file. This will auto generate the slide deck once published. You can view or edit the for testing by running the docsify server. See the GitHub repo for more information
 
